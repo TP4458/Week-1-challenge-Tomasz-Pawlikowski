@@ -74,16 +74,19 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-.content img {                     /*removed separate code for each <img> under .content*/ /*grouped content section*/
+
+ /*removed separate code for each <img> under .content*/ /*grouped content section*/
+.content img {
     max-height: 200px;
 }
 
-.content h2 {                     /*removed separate code for each h2 header under .content*/  
+/*removed separate code for each h2 header under .content*/  
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.search-engine-optimization {
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -92,7 +95,7 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
+#online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -101,7 +104,7 @@ p {
     color: #ffffff;
 }
 
-.social-media-marketing {
+#social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -136,12 +139,14 @@ p {
     color: #ffffff;
 }
 
-.benefits h3 {              /*removed separate code for each <h3> under .benefits*/
+/*removed separate code for each <h3> under .benefits*/
+.benefits h3 {/*removed separate code for each <h3> under .benefits*/
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits img{              /*removed separate code for each <img> under .benefits*/
+/*removed separate code for each <img> under .benefits*/
+.benefits img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
